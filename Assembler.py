@@ -1,5 +1,6 @@
 # To write an Assembler that translates instructions to machine code
 # Instructions will be of the form- Opcode Operand1 Operand2 Operand3
+# Test comment
 
 import sys
 inputfile= sys.argv[1]					# input program in assembly can vary but output will always go to machinecode.txt
